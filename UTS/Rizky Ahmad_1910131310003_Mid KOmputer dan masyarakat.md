@@ -1,0 +1,39 @@
+### Nama        : Rizky Ahmad
+### Nim         : 1910131310003
+### Mata Kuliah : Mid Komputer Masyarakat
+
+
+## Judul Artikel        : **Perbatasan digital: Membayangkan dampak teknologi masa depan di kelas**
+## Pengarang Artikel    : Sean M. Leahya,ÿ ,Charlotte Hollandb , Francis Wardc 
+
+### **resuman dari artikel tersebut**
+
+kemajuan global dari teknologi konon mendorong tranformasi dan gangguan di banyak sektor termasuk pendidikan, namun tinjauan sejarah teknologi dalan pendiidkan terutama mengungkapkan dampak yang lemah atau tidak efektif pada pembelajaran, dan hanya refofmasi kecil sampai saat ini dalam sistem pendidikan. artikel ini tentang pendekatan pedagogik yang muncul yamg memiliki potensi untuk mempersiapkan guru dan peserta didik untuk berinteraksi dan berkembang dalam ruang belajar yang di konfigurasi ulang secara radikal yang bersandar pasa teknologi yang disebutkan diatas untuk mendukung transisi di dalam dan di luar sekolah dan komunitasnya yang terhubung.
+
+
+pendekatan di masa depan ini Sementara penelitian ini berada dalam kerangka teoretis studi masa depan kritis yang berupaya memahami bagaimana masa depan ruang dan pengalaman pendidikan K-12 dapat dibentuk oleh teknologi yang muncul dan muncul, fokus penelitian ini bukanlah untuk memprediksi masa depan tunggal atau yang diinginkan. oleh karena itu tampaknya ada kecocokan alami (dan kesesuaian filosofis) untuk mendekati studi ini melalui lensa studi masa depan. 
+
+### __*Sketsa penggunaan teknologi di dalam kelas*__
+
+Bagian ini dibuka dengan tinjauan sejarah integrasi teknologi dalam pendidikan. diikuti oleh eksplorasi kritis dari tiga sketsa teknologi yang mengeksplorasi kegunaannya saat ini, dan potensi untuk pengajaran dan pembelajaran, sambil menghindari seperti yang disarankan Facer dan Sanford (2010) , membuat asumsi sederhana tentang apa yang akan terjadi, atau untuk mendiskusikan apa yang kita " ingin" atau "akan membuat" terjadi. Untuk keperluan makalah ini, teknologi yang mendasari kritik kami terhadap masa depan pendidikan di setiap sketsa telah dikategorikan ke dalam tiga domain, dengan yang pertama adalah ruang belajar terbuka (ruang belajar fisik masa depan), domain kedua adalah teknologi nyata (ruang belajar yang luas). 
+
+## __*Tinjauan historia integrasi teknologi dalam pendidikan*__
+
+Selama beberapa dekade terakhir, tidak ada kekurangan klaim dan prediksi yang tinggi tentang dampak mendalam yang tak terhitung yang akan ditimbulkan oleh teknologi baru pada pendidikan dan pembelajaran di kelas. proses belajar-mengajar di dalamnya, yang menurut bukti sangat luar biasa. tahan terhadap perubahan (khususnya sehubungan dengan adopsi dan integrasi teknologi baru dengan cara yang berpusat pada peserta didik) hingga saat ini. mencatat dalam publikasinya yang mengeksplorasi isu-isu dan perdebatan dalam pendidikan dan teknologi bahwa “teknologi apapun harus dilihat dari segi batasan dan struktur yang diterapkannya serta peluang yang mungkin ditawarkannya untuk tindakan dan agensi individu” . Oleh karena itu, penting bagi kita untuk mengingat bahwa teknologi bukanlah entitas netral, mereka sarat nilai, dan diwujudkan secara budaya ketika diintegrasikan dalam praktik, dan dengan demikian, memiliki kapasitas untuk digunakan dengan cara yang membatasi atau mengubah pembelajaran.
+
+## __*Vignette 1: membuka ruang belajar*__
+
+Konsep ruang belajar terbuka dapat ditelusuri ke prakarsa di Inggris pascaperang yang memuncak dalam peluncuran Laporan Anak-anak dan Sekolah Dasar mereka pada tahun 1967 yang membuka jalan bagi pembelajaran informal dan terbuka di sekolah dasar Inggris. Secara historis, ada tantangan dalam mewujudkan potensi sebenarnya dari ruang kelas terbuka, baik dari segi arsitektur fisiknya maupun dalam kualitas pengalaman belajar yang dihasilkan. Untuk menyimpulkan sketsa ini, tingkat fleksibilitas yang diperlukan untuk berhasil menerapkan dan memadukan bentuk pembelajaran yang lebih terbuka dapat menjadi tantangan budaya dan logistik bagi guru dan pelajar, dan akan membutuhkan imajinasi ulang arsitektur masa depan, dan pedagogi di dalam, ruang belajar ini
+
+## __*Vignette 2: augmented reality (AR)*__
+
+Augmented reality atau biasa disebut AR adalah teknologi yang memfasilitasi penempatan objek virtual ke dunia nyata melalui kombinasi teknologi lensa dan tampilan. AR adalah salah satu teknologi khusus dalam rangkaian teknologi yang dikenal sebagai realitas campuran (MR), yang juga mencakup realitas virtual (VR), video 360 derajat, dan hologram yang memungkinkan penggabungan dimensi fisik dan digital. Sementara aplikasi AR telah digunakan di berbagai bidang studi, aplikasi dalam sains berlimpah, dengan Bacca et al. (2014) melaporkan bahwa lebih dari 40% studi AR pendidikan yang mereka ulas berfokus pada "Sains". Aplikasi umum untuk AR dalam sains termasuk pemodelan 3D, seringkali konsep abstrak atau sulit divisualisasikan, seperti yang didokumentasikan dalam penelitian yang menyatakan bahwa “AR memiliki potensi untuk mengubah instruksi dan pembelajaran konsep dan konten spasial yang kompleks”.
+
+## __*Vignette 3: kecerdasan buatan (AI)*__
+
+Kecerdasan buatan atau (AI) telah menjadi kata buzz yang digembar-gemborkan di sekitar masa depan teknologi sehingga terlepas dari domainnya, Anda tidak dapat lepas dari hiperbola bipolar tentang potensi tak terbatas atau krisis eksistensial yang akan datang, teknologi ini akan mengantarkan umat manusia. Kecerdasan buatan telah menjadi fokus yang sangat produktif dari teknologi masa depan sehingga Google telah mengubah nama merek "Google Research" mereka menjadi "Google AI" dengan mencatat bahwa semua yang dikerjakan Google menggabungkan beberapa tingkat teknik pembelajaran mesin (Howard, 2018). Dalam sketsa ini, kami melihat tren saat ini dan yang muncul dalam penelitian AI untuk lebih memahami bagaimana pengembangan AI dapat mengarah pada kemungkinan atau dampak yang lebih disukai pada masa depan teknologi pendidikan dan faktor-faktor apa yang dapat menghambat teknologi ini. Mengalihkan fokus kembali ke masa depan teknologi pendidikan, jelas bahwa perkembangan AI berpotensi mengganggu hubungan antara pelajar dan teknologi. Salah satu kemajuan tersebut adalah “datafikasi” dari aktivitas kita sehari-hari di mana semua elemen kehidupan kita yang ditingkatkan secara digital menjadi diukur berdasarkan lokasi, komunikasi, dan data penggunaan kita, dll. 
+
+Kemajuan dalam AI dan dampaknya pada teknologi pendidikan bukan tanpa bagian dari model peringatan. Dengan meningkatnya peran AI dan pembelajaran mesin tanpa pengawasan melalui data besar, salah satu “tanda bahaya” yang muncul adalah potensi hubungan siswa-guru untuk diubah dan jika tidak dilakukan dengan hati-hati, akan berkurang. 
+
+
+Oleh karena itu, tantangan berulang dalam penelitian studi masa depan di bidang pendidikan adalah dalam mengungkapkan dan menantang (dis)nilai-nilai dan kebijakan berbasis non-bukti yang mendukung perencanaan masa depan yang dominan untuk pendidikan, seperti kebutuhan dalam setiap penelitian studi masa depan untuk menantang dorongan neoliberal. menuju "mempersiapkan" peserta didik untuk ekonomi pengetahuan yang saat ini membentuk banyak dari apa yang kita lakukan dalam pendidikan saat ini. Oleh karena itu, dalam praktik penelitian studi masa depan kita, kita perlu berusaha untuk terlibat dalam jenis pemikiran masa depan yang mempertimbangkan potensi teknologi dan materi baru dalam pendidikan dalam bricolage faktor yang berdampak pada masyarakat, planet, perdamaian dan kemakmuran, dan yang mempertimbangkan kesempatan belajar di lingkungan formal, non-formal dan informal dengan menghubungkan kembali pembelajaran di sekolah dengan masyarakat dan keluarga. 
